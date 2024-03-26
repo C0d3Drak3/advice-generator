@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-a7gHU5sgbS)
 - Live Site URL: [Vercel Deploy](https://advice-generator-frontendmentor-six.vercel.app)
 
 ## My process

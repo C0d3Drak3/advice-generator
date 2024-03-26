@@ -29,8 +29,8 @@ export default function Card() {
   };
 
   return (
-    <div className="flex flex-col bg-gray-700 w-[375px] sm:w-[600px] h-[375px]  sm:h-[370px]  justify-start rounded-[15px] sm:rounded-[25px] shadow-lg mt-24 sm:mt-44 relative">
-      <div className="flex flex-col items-center mr-16 ml-16 mt-14 ">
+    <div className="flex flex-col bg-gray-700 w-[320px] sm:w-[600px] h-[310px]  sm:h-[370px]  justify-start rounded-[15px] sm:rounded-[25px] shadow-lg mt-24 sm:mt-44 relative">
+      <div className="flex flex-col items-center mr-5 ml-5 mt-7 ">
         <p className="text-green-300 font-semibold tracking-[.35em] font-manrope text-[12px] sm:text-[14px] mb-4 ">
           ADVICE # {advice.id}
         </p>

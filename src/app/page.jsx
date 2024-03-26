@@ -14,7 +14,7 @@ export default function Home() {
           <Card />
         </div>
 
-        <div className="mt-auto mb-4 text-white text-[13px] sm:text-[16px] w-[375px] sm:w-[440px]">
+        <div className="mt-auto mb-4 text-white text-[13px] sm:text-[16px] w-[340px] sm:w-[440px]">
           Challenge by{" "}
           <a
             href="https://www.frontendmentor.io?ref=challenge"
